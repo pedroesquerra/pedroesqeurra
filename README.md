@@ -1,4 +1,6 @@
-### Mi nombre Pedro Esquerra
+### Mi nombre Pedro Esquerra 
+
+
 Proyectos:
 
 -G-store
@@ -8,7 +10,8 @@ Proyectos:
 
 Estudios:
 
--Soy alumno del institución tecnologico de Tijuana .
+-Soy alumno de 8vo semestre del institución tecnologico de Tijuana 
+De la carrera de ingeniería en tecnologías de la información y comunicaciones.
 
 -Estudie la preparatoria en Conalep 1 Tijuana 👨🏽‍🎓📜.
 
